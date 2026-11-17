@@ -1,0 +1,444 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "shop": "Digital shop",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions",
+    "refund": "Digital refund policy"
+  },
+  "common": {
+    "menu": "Open menu",
+    "close": "Close menu",
+    "language": "Language",
+    "skip": "Skip to content",
+    "explore": "Explore my work",
+    "discover": "Discover the shop",
+    "quote": "Let’s talk about your project",
+    "viewProject": "View project",
+    "viewProduct": "View product",
+    "all": "All",
+    "demo": "Demonstration content",
+    "concept": "Concept project",
+    "coming": "Coming soon",
+    "buy": "Buy on Payhip",
+    "back": "Back to collection",
+    "empty": "Nothing here yet. Try another category.",
+    "search": "Search products",
+    "searchPlaceholder": "Find something inspiring…",
+    "from": "From",
+    "included": "What’s included",
+    "formats": "File formats",
+    "compatibility": "Compatibility",
+    "instructions": "How to use",
+    "download": "Download information",
+    "year": "Year",
+    "project": "Project",
+    "next": "More to explore",
+    "gallery": "Gallery",
+    "previous": "Previous image",
+    "nextImage": "Next image",
+    "currency": "Prices in Australian dollars (AUD).",
+    "preview": "Design preview",
+    "portrait": "Your portrait belongs here",
+    "portraitNote": "A space for the person behind the work.",
+    "demoNote": "A curated collection of demonstration concepts. These are not commissioned client projects.",
+    "shopNote": "Preview collection. Products are not available to purchase until checkout links and files are added.",
+    "legalNote": "Editable draft — review and complete before publication.",
+    "updated": "Draft prepared November 2026",
+    "external": "Checkout and digital delivery are handled securely by Payhip.",
+    "notConfigured": "This product is being prepared. Purchasing is not available yet.",
+    "details": "The details",
+    "noContact": "Contact details will be added soon.",
+    "rights": "All rights reserved.",
+    "made": "Thoughtfully designed. Intentionally made.",
+    "availability": "Open to thoughtful collaborations",
+    "home": "Back to home",
+    "notFound": "This page could not be found.",
+    "portraitAlt": "Portrait of Federica, the designer behind the studio"
+  },
+  "home": {
+    "eyebrow": "INDEPENDENT GRAPHIC DESIGN STUDIO",
+    "title": "Creative design\nfor your brand.",
+    "intro": "Thoughtful visual identities, creative digital experiences and beautifully designed resources for everyday inspiration.",
+    "heroNote": "A little strategy. A lot of soul.",
+    "scroll": "SCROLL TO EXPLORE",
+    "strip": [
+      "Considered design",
+      "Meaningful connections",
+      "Everyday inspiration"
+    ],
+    "studioLabel": "DESIGN WITH INTENTION",
+    "studioTitle": "Good design feels\nas good as it looks.",
+    "studioText": "I believe the most memorable brands begin with a clear idea and a personal touch. From the first sketch to the smallest detail, I create thoughtful design that feels like you.",
+    "studioLink": "A little about the studio",
+    "servicesLabel": "HOW I CAN HELP",
+    "servicesTitle": "Your vision.\nA considered approach.",
+    "servicesLink": "Explore all services",
+    "workLabel": "SELECTED WORK",
+    "workTitle": "Ideas brought to life.",
+    "workLink": "View the portfolio",
+    "shopLabel": "THE DIGITAL COLLECTION",
+    "shopTitle": "A little more inspiration\nfor your everyday.",
+    "shopText": "Thoughtfully designed planners, templates and creative tools to bring a little clarity and beauty to your day.",
+    "shopLink": "Browse the collection",
+    "aboutLabel": "HELLO, I’M FEDERICA",
+    "aboutTitle": "A creative mind.\nA thoughtful eye.",
+    "aboutText": "I’m the designer behind Federica Gatta Design. I bring curiosity, care and a love of beautiful details to visual stories that feel personal and purposeful.",
+    "aboutLink": "Get to know me",
+    "ctaLabel": "LET’S CREATE SOMETHING MEANINGFUL",
+    "ctaTitle": "Your next chapter,\nbeautifully designed.",
+    "ctaText": "Have an idea in mind? I’d love to hear your story."
+  },
+  "about": {
+    "eyebrow": "THE PERSON BEHIND THE STUDIO",
+    "title": "Thoughtful design.\nA personal connection.",
+    "intro": "I’m Federica, a graphic designer drawn to meaningful ideas, beautiful typography and the small details that make a big difference.",
+    "approachTitle": "A thoughtful approach, from the very beginning.",
+    "approach": "Every project starts with listening. Understanding your business, your audience and your ambitions gives us a clear foundation for a visual identity that belongs to you.",
+    "philosophyTitle": "Less noise. More meaning.",
+    "philosophy": "My creative philosophy is simple: design should communicate with clarity and feeling. I pair refined visual choices with practical thinking to create work that lasts beyond a passing trend.",
+    "helpTitle": "Room for your next idea.",
+    "help": "From a new brand identity to social media graphics, printed pieces and custom creative projects, I help turn your ideas into a cohesive visual story.",
+    "values": [
+      "Clarity over clutter",
+      "Details with purpose",
+      "Creativity with care"
+    ]
+  },
+  "pages": {
+    "portfolio": {
+      "title": "A selection of\nthoughtful ideas.",
+      "intro": "Visual identities, printed stories and digital moments. Explore a collection shaped by curiosity and care.",
+      "eyebrow": "THE PORTFOLIO"
+    },
+    "services": {
+      "title": "Design that moves\nyour story forward.",
+      "intro": "Thoughtful graphic design for independent businesses, creative people and ideas with something to say.",
+      "eyebrow": "WAYS TO WORK TOGETHER"
+    },
+    "shop": {
+      "title": "Beautiful tools.\nEveryday possibilities.",
+      "intro": "A considered collection of digital resources, made for a more organised, inspired and creative everyday.",
+      "eyebrow": "THE DIGITAL SHOP"
+    },
+    "contact": {
+      "title": "Good things start\nwith a conversation.",
+      "intro": "Tell me a little about your business, your vision and what you’d like to create together.",
+      "eyebrow": "LET’S CONNECT"
+    },
+    "faq": {
+      "title": "A little clarity,\nbefore we begin.",
+      "intro": "Answers to a few things you might be wondering about working together and shopping the digital collection.",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS"
+    }
+  },
+  "categories": {
+    "all": "All projects",
+    "brand": "Brand identity",
+    "social": "Social media",
+    "print": "Print design",
+    "marketing": "Marketing materials",
+    "digital": "Digital design",
+    "digital-planners": "Digital planners",
+    "printable-planners": "Printable planners",
+    "goodnotes": "Goodnotes templates",
+    "social-templates": "Social media templates",
+    "business-templates": "Business templates",
+    "journals": "Digital journals",
+    "stickers": "Digital stickers",
+    "stationery": "Printable stationery"
+  },
+  "footer": {
+    "tagline": "Thoughtful design for brands\nand everyday inspiration.",
+    "explore": "Explore",
+    "information": "A few useful things",
+    "social": "Stay connected",
+    "contact": "Let’s make something meaningful."
+  },
+  "contact": {
+    "name": "Your name",
+    "email": "Email address",
+    "business": "Business name",
+    "service": "What can I help you with?",
+    "select": "Select a service",
+    "description": "Tell me about your project",
+    "budget": "Budget (optional)",
+    "deadline": "Ideal deadline (optional)",
+    "file": "Reference image (optional)",
+    "fileHint": "JPG, PNG or WebP, up to 3 MB.",
+    "submit": "Send enquiry",
+    "sending": "Sending…",
+    "success": "Thank you. Your enquiry has been sent.",
+    "error": "Your enquiry could not be sent. Please try again or use the email address below.",
+    "disabled": "The enquiry form is not connected yet. Submission will be available once the studio’s form service is configured.",
+    "privacy": "Your details will be used to respond to your enquiry. Read the privacy policy.",
+    "elsewhere": "A little more connection",
+    "emailLabel": "Email the studio",
+    "instagram": "Find me on Instagram",
+    "invalidFile": "Choose a JPG, PNG or WebP image smaller than 3 MB.",
+    "required": "Please complete the required fields.",
+    "fileDisabled": "Reference uploads need a supported form-service plan and are not enabled yet."
+  },
+  "process": {
+    "title": "From the first hello to the final detail.",
+    "steps": [
+      {
+        "title": "Discover",
+        "text": "We talk about your story, goals and the people you want to reach."
+      },
+      {
+        "title": "Create",
+        "text": "I explore a creative direction and develop the design with your feedback."
+      },
+      {
+        "title": "Refine",
+        "text": "We refine the details and prepare your files for their next chapter."
+      }
+    ]
+  },
+  "services": {
+    "brand": {
+      "name": "Brand identity",
+      "short": "A visual story that feels unmistakably you.",
+      "description": "A cohesive, considered identity that helps your business show up with clarity and confidence.",
+      "includes": [
+        "Logo design and variations",
+        "Colour palette and typography",
+        "Visual identity direction",
+        "Brand guidelines"
+      ]
+    },
+    "social": {
+      "name": "Social media design",
+      "short": "A cohesive presence, one thoughtful post at a time.",
+      "description": "Purposeful, beautifully consistent visuals that connect your brand with your community.",
+      "includes": [
+        "Instagram posts and stories",
+        "Editable social templates",
+        "Campaign graphics",
+        "Visual content direction"
+      ]
+    },
+    "print": {
+      "name": "Menus & flyers",
+      "short": "Tactile details. Lasting impressions.",
+      "description": "Printed communication with a balance of beautiful form, clear information and practical purpose.",
+      "includes": [
+        "Restaurant and café menus",
+        "Promotional flyers",
+        "Brochures and folded pieces",
+        "Print-ready files"
+      ]
+    },
+    "marketing": {
+      "name": "Marketing materials",
+      "short": "Your brand, beautifully carried through.",
+      "description": "A consistent family of materials that brings your identity into every customer touchpoint.",
+      "includes": [
+        "Business cards",
+        "Posters and promotional pieces",
+        "Branded documents",
+        "Digital and print-ready formats"
+      ]
+    },
+    "custom": {
+      "name": "Custom graphic design",
+      "short": "Something a little different? Let’s make it yours.",
+      "description": "Tailor-made creative support shaped around your project, your audience and your ambitions.",
+      "includes": [
+        "A tailored creative brief",
+        "Custom graphic assets",
+        "Agreed project deliverables",
+        "Files prepared for your needs"
+      ]
+    }
+  },
+  "projects": {
+    "alma": {
+      "title": "Alma Studio",
+      "short": "A warm identity for a slower way of living.",
+      "description": "An exploratory brand identity inspired by natural textures, quiet confidence and intentional living. An expressive wordmark meets a warm, pared-back palette across a set of stationery concepts. This is demonstration work, not a client commission."
+    },
+    "slow-living": {
+      "title": "The Slow Edit",
+      "short": "A considered social presence, naturally.",
+      "description": "A demonstration social media direction exploring editorial typography and calm, image-led layouts. A flexible family of posts and stories creates rhythm and consistency. Not a client commission."
+    },
+    "casa": {
+      "title": "Casa Botanica",
+      "short": "A printed invitation to gather around the table.",
+      "description": "A concept menu and printed identity for an imagined botanical café. Restrained typography and earthy tones bring warmth to a practical, legible layout. Demonstration content, not a real client project."
+    },
+    "studio-notes": {
+      "title": "Studio Notes",
+      "short": "Little printed details with a lasting impression.",
+      "description": "A demonstration suite of business cards, correspondence and promotional materials exploring the relationship between generous space and confident typography. Not a real client commission."
+    },
+    "forma": {
+      "title": "Forma Journal",
+      "short": "An editorial idea, brought into the digital world.",
+      "description": "An exploratory digital art direction for an imagined creative journal. Typographic contrast and simple geometric forms create a clear, engaging visual rhythm. Demonstration concept only."
+    }
+  },
+  "products": {
+    "everyday-planner": {
+      "name": "The Everyday Planner",
+      "short": "A calmer space for your plans, priorities and possibilities.",
+      "description": "A demonstration digital planner concept with considered layouts for everyday organisation. Final product specifications and downloadable files must be added before launch.",
+      "features": [
+        "Weekly and daily planning layouts",
+        "Monthly overview concept",
+        "Space for notes and priorities"
+      ],
+      "compatibility": "PDF reader or a PDF annotation app. Goodnotes compatibility and hyperlinks must be verified on the final file.",
+      "instructions": "After purchase through Payhip, download the final file and import it into your preferred compatible app.",
+      "download": "Preview only. No downloadable product is supplied with this demonstration."
+    },
+    "social-essentials": {
+      "name": "Social Essentials",
+      "short": "Thoughtful templates for a beautifully consistent feed.",
+      "description": "A demonstration collection of editorial social templates. Editable Canva files and the final template count must be confirmed before this product goes on sale.",
+      "features": [
+        "Coordinated post and story concepts",
+        "Editable typography and colour direction",
+        "A simple visual system"
+      ],
+      "compatibility": "A Canva account will be needed. Free or Pro asset requirements must be confirmed for the finished templates.",
+      "instructions": "Use the Canva template link provided in your Payhip delivery, create your own copy and customise the layouts.",
+      "download": "Preview only. A real template link must be added to the Payhip delivery."
+    },
+    "weekly-printables": {
+      "name": "The Weekly Edit",
+      "short": "Clear your mind. Make room for what matters.",
+      "description": "A demonstration printable planning set in warm neutral tones. Print files, dimensions and final contents must be verified before launch.",
+      "features": [
+        "Weekly planning layout",
+        "Priorities and to-do list",
+        "A4 and A5 format concepts"
+      ],
+      "compatibility": "A PDF reader and an A4 or A5 printer. Colours may vary between screens and printers.",
+      "instructions": "Download from Payhip, open the PDF and print at actual size on the matching paper format.",
+      "download": "Preview only. Final print-ready files are not included yet."
+    },
+    "quiet-journal": {
+      "name": "The Quiet Journal",
+      "short": "A little space to pause, reflect and begin again.",
+      "description": "A demonstration guided journal concept with space for reflection, simple intentions and daily notes. Final content and files are pending.",
+      "features": [
+        "Reflection prompts",
+        "Daily intentions",
+        "Open notes layouts"
+      ],
+      "compatibility": "A PDF reader or compatible annotation app. Final device compatibility must be checked before launch.",
+      "instructions": "Download your PDF from Payhip and open it in a compatible app or print the pages you need.",
+      "download": "Preview only. Downloadable journal files have not yet been added."
+    }
+  },
+  "faq": [
+    {
+      "q": "What kind of design projects can we work on?",
+      "a": "Brand identities, social media graphics, menus, flyers, marketing materials and custom graphic design. Share your idea through the contact page to discuss the right scope."
+    },
+    {
+      "q": "How does the design process work?",
+      "a": "We begin with a conversation and a clear brief. Once scope, pricing and timing are agreed in writing, we move through creative exploration, feedback and final file preparation."
+    },
+    {
+      "q": "How many revisions are included?",
+      "a": "The number of revision rounds will be defined in your individual proposal. Additional changes or new directions can be quoted separately before work continues."
+    },
+    {
+      "q": "How much does a project cost?",
+      "a": "Each quote reflects the deliverables, complexity and schedule of the project. Get in touch with your requirements and an indicative budget for a tailored proposal."
+    },
+    {
+      "q": "How do I receive a digital product?",
+      "a": "When a product is available, its purchase button takes you to Payhip. Payhip handles payment and provides the download instructions after a successful purchase."
+    },
+    {
+      "q": "What if I cannot find my download?",
+      "a": "Check the email address used at checkout, including your spam folder. Keep your order reference and contact the studio using the published contact details for help."
+    },
+    {
+      "q": "Will the files work with my device or app?",
+      "a": "Read the compatibility and format details on each product page before buying. Some products may need a PDF annotation app, a printer or a Canva account."
+    },
+    {
+      "q": "Can I get a refund for a digital download?",
+      "a": "Review the digital refund policy before purchasing. Any final policy must respect applicable consumer rights, including rights that cannot be excluded under Australian law."
+    }
+  ],
+  "legal": {
+    "privacy": {
+      "title": "Privacy policy",
+      "intro": "This is an editable starting template, not legal advice or a statement of compliance. The business owner must complete and review it for Australian and international requirements before launch.",
+      "sections": [
+        {
+          "title": "Who operates this website",
+          "text": "Complete: legal business name, ABN if applicable, business address, contact email and the effective date. Federica Gatta Design is the public-facing brand name."
+        },
+        {
+          "title": "Information collected",
+          "text": "Describe the actual data collected, including contact enquiries, uploaded reference images and order information received from Payhip. Collect only what is needed for the stated purpose."
+        },
+        {
+          "title": "Purpose, providers and transfers",
+          "text": "Confirm how enquiries are used, the chosen form provider, Vercel hosting and Payhip checkout. Identify any international processing, retention periods, security measures and provider privacy notices."
+        },
+        {
+          "title": "Cookies, access and requests",
+          "text": "This starter does not install analytics or marketing cookies. Review any future tracking, consent requirements, access and correction rights, complaint procedures and applicable privacy laws. Add a working privacy contact before publication."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & conditions",
+      "intro": "Draft terms for review. Complete business details and obtain appropriate advice before relying on these terms. No legal compliance is claimed.",
+      "sections": [
+        {
+          "title": "Business and scope",
+          "text": "Complete the legal entity, contact address, effective date and governing jurisdiction. Describe the services and digital products actually offered."
+        },
+        {
+          "title": "Design projects",
+          "text": "Confirm each project’s scope, fees, payment schedule, revisions, timeline, cancellation rules and intellectual property arrangements in a written agreement before work begins."
+        },
+        {
+          "title": "Digital purchases and licences",
+          "text": "Payhip processes checkout and delivery. Specify the actual permitted use, licence limits, pricing, taxes, file formats and compatibility for each product. Do not assume a personal or commercial licence without explicitly defining it."
+        },
+        {
+          "title": "Rights and responsibilities",
+          "text": "Review warranties, liability and dispute procedures with an adviser. Do not exclude mandatory consumer rights. Include applicable Australian Consumer Law requirements and any obligations for international customers."
+        }
+      ]
+    },
+    "refund": {
+      "title": "Digital product refund policy",
+      "intro": "Editable draft. The final refund process and contact details must be reviewed before selling. This page does not promise that all digital purchases are non-refundable.",
+      "sections": [
+        {
+          "title": "Before purchasing",
+          "text": "Check the product description, file format, app requirements and previews. Digital products are delivered through Payhip once checkout is completed."
+        },
+        {
+          "title": "Problems with your file",
+          "text": "If a file is missing, damaged, inaccessible or materially different from its description, contact the studio with your order reference and a description of the issue. Add a working support address and a practical response process."
+        },
+        {
+          "title": "Change of mind and statutory rights",
+          "text": "Define any discretionary change-of-mind policy after legal review. Refunds, replacements or other remedies may be required by applicable law. Nothing in the final policy should exclude rights that cannot lawfully be excluded, including Australian consumer guarantees."
+        },
+        {
+          "title": "International purchases",
+          "text": "Review rules for digital content, consent to immediate supply, withdrawal rights and disclosures in the jurisdictions where you sell. Confirm Payhip settings and the actual refund procedure before publishing."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi sono",
+    "portfolio": "Portfolio",
+    "services": "Servizi",
+    "shop": "Shop digitale",
+    "contact": "Contatti",
+    "faq": "FAQ",
+    "privacy": "Informativa privacy",
+    "terms": "Termini e condizioni",
+    "refund": "Rimborsi digitali"
+  },
+  "common": {
+    "menu": "Apri menu",
+    "close": "Chiudi menu",
+    "language": "Lingua",
+    "skip": "Vai al contenuto",
+    "explore": "Esplora i miei lavori",
+    "discover": "Scopri lo shop",
+    "quote": "Parliamo del tuo progetto",
+    "viewProject": "Scopri il progetto",
+    "viewProduct": "Scopri il prodotto",
+    "all": "Tutti",
+    "demo": "Contenuto dimostrativo",
+    "concept": "Progetto concept",
+    "coming": "Prossimamente",
+    "buy": "Acquista su Payhip",
+    "back": "Torna alla collezione",
+    "empty": "Nessun risultato. Prova un’altra categoria.",
+    "search": "Cerca prodotti",
+    "searchPlaceholder": "Trova la tua ispirazione…",
+    "from": "Da",
+    "included": "Cosa include",
+    "formats": "Formati dei file",
+    "compatibility": "Compatibilità",
+    "instructions": "Come si usa",
+    "download": "Informazioni sul download",
+    "year": "Anno",
+    "project": "Progetto",
+    "next": "Altre idee da esplorare",
+    "gallery": "Galleria",
+    "previous": "Immagine precedente",
+    "nextImage": "Immagine successiva",
+    "currency": "Prezzi in dollari australiani (AUD).",
+    "preview": "Anteprima del design",
+    "portrait": "Qui ci sarà il tuo ritratto",
+    "portraitNote": "Uno spazio per la persona dietro ai progetti.",
+    "demoNote": "Una selezione di concept dimostrativi. Non si tratta di lavori commissionati da clienti.",
+    "shopNote": "Collezione in anteprima. I prodotti saranno acquistabili dopo l’aggiunta dei file e dei link di pagamento.",
+    "legalNote": "Bozza modificabile — da verificare e completare prima della pubblicazione.",
+    "updated": "Bozza preparata a novembre 2026",
+    "external": "Pagamento e consegna digitale sono gestiti in modo sicuro da Payhip.",
+    "notConfigured": "Questo prodotto è in preparazione. Non è ancora possibile acquistarlo.",
+    "details": "I dettagli",
+    "noContact": "I recapiti saranno aggiunti prossimamente.",
+    "rights": "Tutti i diritti riservati.",
+    "made": "Design curato. Creato con intenzione.",
+    "availability": "Disponibile per nuove collaborazioni",
+    "home": "Torna alla home",
+    "notFound": "Questa pagina non è stata trovata.",
+    "portraitAlt": "Ritratto di Federica, la designer dello studio"
+  },
+  "home": {
+    "eyebrow": "STUDIO INDIPENDENTE DI GRAPHIC DESIGN",
+    "title": "Design creativo\nper il tuo brand.",
+    "intro": "Identità visive curate, esperienze digitali creative e risorse di design per ispirare la tua quotidianità.",
+    "heroNote": "Un po’ di strategia. Tanta personalità.",
+    "scroll": "SCORRI PER ESPLORARE",
+    "strip": [
+      "Design consapevole",
+      "Connessioni autentiche",
+      "Ispirazione quotidiana"
+    ],
+    "studioLabel": "DESIGN CON INTENZIONE",
+    "studioTitle": "Il buon design si sente.\nE si vede.",
+    "studioText": "Credo che i brand più memorabili nascano da un’idea chiara e da un tocco personale. Dal primo schizzo al più piccolo dettaglio, creo un design curato che ti rispecchia.",
+    "studioLink": "Scopri lo studio",
+    "servicesLabel": "COME POSSO AIUTARTI",
+    "servicesTitle": "La tua visione.\nUn approccio curato.",
+    "servicesLink": "Esplora tutti i servizi",
+    "workLabel": "LAVORI SELEZIONATI",
+    "workTitle": "Idee che prendono forma.",
+    "workLink": "Esplora il portfolio",
+    "shopLabel": "LA COLLEZIONE DIGITALE",
+    "shopTitle": "Un po’ di ispirazione\nper ogni giorno.",
+    "shopText": "Planner, template e strumenti creativi progettati con cura, per portare chiarezza e bellezza nella tua giornata.",
+    "shopLink": "Esplora la collezione",
+    "aboutLabel": "CIAO, SONO FEDERICA",
+    "aboutTitle": "Una mente creativa.\nUno sguardo attento.",
+    "aboutText": "Sono la designer di Federica Gatta Design. Curiosità, cura e amore per i dettagli guidano le storie visive che creo, personali e ricche di significato.",
+    "aboutLink": "Conosciamoci",
+    "ctaLabel": "CREIAMO QUALCOSA DI SIGNIFICATIVO",
+    "ctaTitle": "Il tuo prossimo capitolo,\ndisegnato con cura.",
+    "ctaText": "Hai un’idea in mente? Mi piacerebbe conoscere la tua storia."
+  },
+  "about": {
+    "eyebrow": "LA PERSONA DIETRO LO STUDIO",
+    "title": "Design consapevole.\nUn legame personale.",
+    "intro": "Sono Federica, una graphic designer appassionata di idee significative, tipografia e piccoli dettagli che fanno la differenza.",
+    "approachTitle": "Un approccio curato, fin dall’inizio.",
+    "approach": "Ogni progetto inizia dall’ascolto. Capire la tua attività, il tuo pubblico e le tue ambizioni crea una base solida per un’identità visiva che ti appartiene.",
+    "philosophyTitle": "Meno rumore. Più significato.",
+    "philosophy": "La mia filosofia è semplice: il design deve comunicare con chiarezza ed emozione. Unisco scelte visive raffinate e pensiero pratico per creare lavori che durano oltre le tendenze.",
+    "helpTitle": "Spazio alla tua prossima idea.",
+    "help": "Dall’identità visiva ai contenuti social, dai materiali stampati ai progetti su misura: trasformo le tue idee in una storia visiva coerente.",
+    "values": [
+      "Chiarezza, senza eccessi",
+      "Dettagli con uno scopo",
+      "Creatività con cura"
+    ]
+  },
+  "pages": {
+    "portfolio": {
+      "title": "Una selezione di\nidee curate.",
+      "intro": "Identità visive, storie stampate e momenti digitali. Una collezione che nasce da curiosità e attenzione.",
+      "eyebrow": "IL PORTFOLIO"
+    },
+    "services": {
+      "title": "Design che dà forma\nalla tua storia.",
+      "intro": "Graphic design consapevole per attività indipendenti, persone creative e idee che hanno qualcosa da dire.",
+      "eyebrow": "LAVORIAMO INSIEME"
+    },
+    "shop": {
+      "title": "Strumenti belli.\nPossibilità quotidiane.",
+      "intro": "Una collezione di risorse digitali per una quotidianità più organizzata, creativa e ricca di ispirazione.",
+      "eyebrow": "LO SHOP DIGITALE"
+    },
+    "contact": {
+      "title": "Le cose belle iniziano\ncon una conversazione.",
+      "intro": "Raccontami della tua attività, della tua visione e di ciò che vorresti creare insieme.",
+      "eyebrow": "RESTIAMO IN CONTATTO"
+    },
+    "faq": {
+      "title": "Un po’ di chiarezza,\nprima di iniziare.",
+      "intro": "Le risposte alle domande più frequenti sui progetti di design e sulla collezione digitale.",
+      "eyebrow": "DOMANDE FREQUENTI"
+    }
+  },
+  "categories": {
+    "all": "Tutti i progetti",
+    "brand": "Identità visiva",
+    "social": "Social media",
+    "print": "Design per la stampa",
+    "marketing": "Materiali di marketing",
+    "digital": "Design digitale",
+    "digital-planners": "Planner digitali",
+    "printable-planners": "Planner stampabili",
+    "goodnotes": "Template Goodnotes",
+    "social-templates": "Template social media",
+    "business-templates": "Template business",
+    "journals": "Diari digitali",
+    "stickers": "Sticker digitali",
+    "stationery": "Cancelleria stampabile"
+  },
+  "footer": {
+    "tagline": "Design curato per i brand\ne ispirazione per ogni giorno.",
+    "explore": "Esplora",
+    "information": "Informazioni utili",
+    "social": "Restiamo in contatto",
+    "contact": "Creiamo qualcosa di significativo."
+  },
+  "contact": {
+    "name": "Il tuo nome",
+    "email": "Indirizzo email",
+    "business": "Nome dell’attività",
+    "service": "Come posso aiutarti?",
+    "select": "Seleziona un servizio",
+    "description": "Raccontami del tuo progetto",
+    "budget": "Budget (facoltativo)",
+    "deadline": "Scadenza ideale (facoltativa)",
+    "file": "Immagine di riferimento (facoltativa)",
+    "fileHint": "JPG, PNG o WebP, massimo 3 MB.",
+    "submit": "Invia richiesta",
+    "sending": "Invio in corso…",
+    "success": "Grazie. La tua richiesta è stata inviata.",
+    "error": "Invio non riuscito. Riprova oppure usa l’indirizzo email qui sotto.",
+    "disabled": "Il modulo non è ancora collegato. L’invio sarà disponibile dopo la configurazione del servizio di contatto dello studio.",
+    "privacy": "I tuoi dati serviranno per rispondere alla richiesta. Leggi l’informativa privacy.",
+    "elsewhere": "Altri modi per restare in contatto",
+    "emailLabel": "Scrivi allo studio",
+    "instagram": "Seguimi su Instagram",
+    "invalidFile": "Scegli un’immagine JPG, PNG o WebP inferiore a 3 MB.",
+    "required": "Completa i campi obbligatori.",
+    "fileDisabled": "Il caricamento richiede un piano del servizio compatibile e non è ancora attivo."
+  },
+  "process": {
+    "title": "Dal primo saluto all’ultimo dettaglio.",
+    "steps": [
+      {
+        "title": "Ascolto",
+        "text": "Parliamo della tua storia, degli obiettivi e delle persone che vuoi raggiungere."
+      },
+      {
+        "title": "Creazione",
+        "text": "Esploro una direzione creativa e sviluppo il design con i tuoi feedback."
+      },
+      {
+        "title": "Rifinitura",
+        "text": "Curiamo i dettagli e prepariamo i file per il loro prossimo capitolo."
+      }
+    ]
+  },
+  "services": {
+    "brand": {
+      "name": "Identità visiva",
+      "short": "Una storia visiva che ti rispecchia.",
+      "description": "Un’identità coerente e curata, per presentare la tua attività con chiarezza e sicurezza.",
+      "includes": [
+        "Logo e varianti",
+        "Palette colori e tipografia",
+        "Direzione dell’identità visiva",
+        "Linee guida del brand"
+      ]
+    },
+    "social": {
+      "name": "Design per social media",
+      "short": "Una presenza coerente, un contenuto alla volta.",
+      "description": "Immagini curate e riconoscibili che connettono il tuo brand alla sua community.",
+      "includes": [
+        "Post e storie Instagram",
+        "Template social modificabili",
+        "Grafiche per campagne",
+        "Direzione dei contenuti visivi"
+      ]
+    },
+    "print": {
+      "name": "Menu e volantini",
+      "short": "Dettagli da toccare. Impressioni che restano.",
+      "description": "Comunicazione stampata che unisce bellezza, informazioni chiare e funzionalità.",
+      "includes": [
+        "Menu per ristoranti e caffè",
+        "Volantini promozionali",
+        "Brochure e pieghevoli",
+        "File pronti per la stampa"
+      ]
+    },
+    "marketing": {
+      "name": "Materiali di marketing",
+      "short": "Il tuo brand, in ogni dettaglio.",
+      "description": "Una famiglia coerente di materiali che porta la tua identità in ogni punto di contatto.",
+      "includes": [
+        "Biglietti da visita",
+        "Poster e materiali promozionali",
+        "Documenti brandizzati",
+        "Formati digitali e per la stampa"
+      ]
+    },
+    "custom": {
+      "name": "Graphic design su misura",
+      "short": "Un’idea diversa? Diamole forma.",
+      "description": "Supporto creativo su misura per il tuo progetto, il tuo pubblico e le tue ambizioni.",
+      "includes": [
+        "Brief creativo personalizzato",
+        "Elementi grafici su misura",
+        "Materiali concordati",
+        "File adatti alle tue esigenze"
+      ]
+    }
+  },
+  "projects": {
+    "alma": {
+      "title": "Alma Studio",
+      "short": "Un’identità calda per uno stile di vita più lento.",
+      "description": "Un concept di identità visiva ispirato a texture naturali e a una vita consapevole. Un logotipo espressivo incontra una palette calda in una serie di proposte di cancelleria. Lavoro dimostrativo, non commissionato da un cliente."
+    },
+    "slow-living": {
+      "title": "The Slow Edit",
+      "short": "Una presenza social curata, con naturalezza.",
+      "description": "Una direzione social dimostrativa che esplora tipografia editoriale e composizioni essenziali. Una famiglia flessibile di post e storie crea ritmo e coerenza. Non è un incarico reale."
+    },
+    "casa": {
+      "title": "Casa Botanica",
+      "short": "Un invito stampato a ritrovarsi a tavola.",
+      "description": "Menu e identità stampata per un immaginario caffè botanico. Tipografia essenziale e toni naturali rendono calda e leggibile la composizione. Concept dimostrativo, non un progetto per un cliente."
+    },
+    "studio-notes": {
+      "title": "Studio Notes",
+      "short": "Piccoli dettagli stampati che lasciano il segno.",
+      "description": "Una serie dimostrativa di biglietti da visita, corrispondenza e materiali promozionali, tra spazi generosi e tipografia decisa. Non è un lavoro commissionato."
+    },
+    "forma": {
+      "title": "Forma Journal",
+      "short": "Un’idea editoriale nel mondo digitale.",
+      "description": "Una direzione artistica digitale per un immaginario magazine creativo. Contrasti tipografici e forme geometriche creano un ritmo visivo chiaro. Solo concept dimostrativo."
+    }
+  },
+  "products": {
+    "everyday-planner": {
+      "name": "Il Planner Quotidiano",
+      "short": "Uno spazio più sereno per programmi, priorità e possibilità.",
+      "description": "Concept dimostrativo di planner digitale con layout per organizzare la giornata. Specifiche finali e file da completare prima della vendita.",
+      "features": [
+        "Layout settimanali e giornalieri",
+        "Proposta di panoramica mensile",
+        "Spazio per note e priorità"
+      ],
+      "compatibility": "Lettore PDF o app per annotazioni. Compatibilità Goodnotes e collegamenti da verificare sul file finale.",
+      "instructions": "Dopo l’acquisto su Payhip, scarica il file e importalo nell’app compatibile che preferisci.",
+      "download": "Solo anteprima. Nessun file scaricabile incluso nella dimostrazione."
+    },
+    "social-essentials": {
+      "name": "Social Essentials",
+      "short": "Template curati per un feed coerente.",
+      "description": "Collezione dimostrativa di template social editoriali. File Canva e numero finale di template da confermare prima della vendita.",
+      "features": [
+        "Concept coordinati per post e storie",
+        "Tipografia e colori modificabili",
+        "Un sistema visivo semplice"
+      ],
+      "compatibility": "È necessario un account Canva. L’eventuale uso di elementi Pro va verificato nei template finali.",
+      "instructions": "Apri il link Canva ricevuto tramite Payhip, crea una copia e personalizza i layout.",
+      "download": "Solo anteprima. Il link reale va aggiunto alla consegna Payhip."
+    },
+    "weekly-printables": {
+      "name": "La Settimana in Ordine",
+      "short": "Libera la mente. Fai spazio a ciò che conta.",
+      "description": "Set dimostrativo di planner stampabili in toni neutri. File, misure e contenuti da verificare prima della vendita.",
+      "features": [
+        "Layout settimanale",
+        "Priorità e lista delle cose da fare",
+        "Proposte in formato A4 e A5"
+      ],
+      "compatibility": "Lettore PDF e stampante A4 o A5. I colori possono variare fra schermo e stampa.",
+      "instructions": "Scarica da Payhip, apri il PDF e stampa in dimensioni reali sul formato corrispondente.",
+      "download": "Solo anteprima. I file pronti per la stampa non sono ancora inclusi."
+    },
+    "quiet-journal": {
+      "name": "Il Diario della Calma",
+      "short": "Uno spazio per fermarsi, riflettere e ricominciare.",
+      "description": "Concept dimostrativo di diario guidato con riflessioni, intenzioni e note. Contenuti e file finali da completare.",
+      "features": [
+        "Spunti di riflessione",
+        "Intenzioni quotidiane",
+        "Pagine per appunti"
+      ],
+      "compatibility": "Lettore PDF o app per annotazioni. La compatibilità finale va verificata prima della vendita.",
+      "instructions": "Scarica il PDF da Payhip e aprilo in un’app compatibile oppure stampa le pagine desiderate.",
+      "download": "Solo anteprima. I file del diario non sono stati ancora aggiunti."
+    }
+  },
+  "faq": [
+    {
+      "q": "Quali progetti possiamo realizzare insieme?",
+      "a": "Identità visive, grafiche social, menu, volantini, materiali di marketing e progetti su misura. Raccontami la tua idea dalla pagina contatti."
+    },
+    {
+      "q": "Come funziona il processo di design?",
+      "a": "Iniziamo con una conversazione e un brief chiaro. Dopo aver concordato per iscritto ambito, prezzo e tempi, passiamo a esplorazione creativa, feedback e preparazione dei file."
+    },
+    {
+      "q": "Quante revisioni sono incluse?",
+      "a": "Il numero di revisioni sarà definito nella proposta. Modifiche aggiuntive o nuove direzioni possono essere preventivate prima di proseguire."
+    },
+    {
+      "q": "Quanto costa un progetto?",
+      "a": "Ogni preventivo dipende da materiali, complessità e tempi. Scrivimi con le tue esigenze e un budget indicativo per una proposta personalizzata."
+    },
+    {
+      "q": "Come ricevo un prodotto digitale?",
+      "a": "Quando disponibile, il pulsante acquisto rimanda a Payhip, che gestisce il pagamento e invia le istruzioni di download dopo l’acquisto."
+    },
+    {
+      "q": "Non trovo il mio download: cosa faccio?",
+      "a": "Controlla l’email usata per l’acquisto, anche nello spam. Conserva il riferimento d’ordine e contatta lo studio tramite i recapiti pubblicati."
+    },
+    {
+      "q": "I file funzionano sul mio dispositivo?",
+      "a": "Prima dell’acquisto leggi formati e compatibilità sulla pagina prodotto. Potrebbero servire un’app PDF, una stampante o un account Canva."
+    },
+    {
+      "q": "Posso ricevere un rimborso per un download?",
+      "a": "Leggi la politica sui rimborsi prima dell’acquisto. La versione finale deve rispettare i diritti inderogabili dei consumatori, inclusi quelli previsti dalla legge australiana."
+    }
+  ],
+  "legal": {
+    "privacy": {
+      "title": "Informativa privacy",
+      "intro": "Modello iniziale modificabile, non consulenza legale né dichiarazione di conformità. Da completare e verificare secondo i requisiti australiani e internazionali prima della pubblicazione.",
+      "sections": [
+        {
+          "title": "Titolare del sito",
+          "text": "Completare: ragione sociale, ABN se applicabile, sede, email di contatto e data di entrata in vigore. Federica Gatta Design è il nome del brand."
+        },
+        {
+          "title": "Dati raccolti",
+          "text": "Descrivere i dati effettivamente raccolti: richieste, immagini caricate e informazioni sugli ordini ricevute da Payhip. Raccogliere solo quanto necessario."
+        },
+        {
+          "title": "Finalità, fornitori e trasferimenti",
+          "text": "Confermare utilizzo delle richieste, fornitore del modulo, hosting Vercel e checkout Payhip. Specificare trattamenti internazionali, conservazione, sicurezza e informative dei fornitori."
+        },
+        {
+          "title": "Cookie, accesso e richieste",
+          "text": "Questo progetto non installa cookie analitici o di marketing. Verificare eventuali tracciamenti futuri, consensi, diritti di accesso e rettifica, reclami e leggi applicabili. Aggiungere un contatto privacy attivo."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Termini e condizioni",
+      "intro": "Bozza da verificare. Completare i dati aziendali e richiedere una consulenza adeguata prima dell’utilizzo. Non si dichiara alcuna conformità legale.",
+      "sections": [
+        {
+          "title": "Attività e ambito",
+          "text": "Completare entità legale, indirizzo, data e giurisdizione. Descrivere i servizi e i prodotti realmente offerti."
+        },
+        {
+          "title": "Progetti di design",
+          "text": "Concordare per iscritto ambito, compensi, pagamenti, revisioni, tempi, cancellazioni e proprietà intellettuale prima di iniziare."
+        },
+        {
+          "title": "Acquisti digitali e licenze",
+          "text": "Payhip gestisce checkout e consegna. Definire uso consentito, licenza, prezzi, imposte, formati e compatibilità per ciascun prodotto. Non presumere licenze personali o commerciali senza indicarle."
+        },
+        {
+          "title": "Diritti e responsabilità",
+          "text": "Verificare garanzie, responsabilità e controversie con un consulente. Non escludere diritti obbligatori. Includere i requisiti della Australian Consumer Law e gli obblighi verso clienti internazionali."
+        }
+      ]
+    },
+    "refund": {
+      "title": "Rimborsi per prodotti digitali",
+      "intro": "Bozza modificabile. Procedura e contatti da verificare prima della vendita. Questa pagina non afferma che tutti gli acquisti digitali siano non rimborsabili.",
+      "sections": [
+        {
+          "title": "Prima dell’acquisto",
+          "text": "Controllare descrizione, formato, app richieste e anteprime. Payhip consegna i prodotti digitali dopo il pagamento."
+        },
+        {
+          "title": "Problemi con un file",
+          "text": "Se un file manca, è danneggiato, inaccessibile o diverso dalla descrizione, contattare lo studio con il riferimento d’ordine. Aggiungere un recapito di assistenza e una procedura concreta."
+        },
+        {
+          "title": "Ripensamento e diritti di legge",
+          "text": "Definire l’eventuale politica volontaria dopo una verifica legale. La legge può prevedere rimborsi, sostituzioni o altri rimedi. Non escludere diritti inderogabili, incluse le garanzie australiane."
+        },
+        {
+          "title": "Acquisti internazionali",
+          "text": "Verificare norme sui contenuti digitali, consenso alla fornitura immediata, recesso e informazioni nei paesi di vendita. Confermare impostazioni Payhip e procedura prima di pubblicare."
+        }
+      ]
+    }
+  }
+}
